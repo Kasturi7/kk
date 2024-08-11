@@ -1,0 +1,19 @@
+body{
+    background-color:blanchedalmond;
+}
+img{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    position:relative;
+
+}
+h1{
+    font-size:2rem;
+    color:coral;
+}
+h2{
+    color:seagreen;
+}
+
+
